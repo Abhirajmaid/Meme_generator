@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  align-items: center;
+  height: 65px;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  color: white;
+  padding: 35px;
+}
+
+.header-image {
+  width: 50px;
+  /* height: 100%; */
+  margin-right: 6px;
+}
+
+.header-title {
+  font-size: 22px;
+  margin-right: auto;
+}
+
+.header-project {
+  font-size: 18px;
+  font-weight: 500;
+}

@@ -1,0 +1,32 @@
+/* .main {
+
+} */
+.form {
+  padding: 30px 6rem;
+  display: grid;
+  grid-template: 40px 40px / 1fr 1fr;
+  gap: 17px;
+  /* height: 700px; */
+}
+input {
+  font-family: "Karla", sans-serif;
+  border-radius: 5px;
+  border: 1px solid #464647;
+  text-indent: 5px;
+}
+.form-btn {
+  grid-column: 1 / -1;
+  font-family: "Karla", sans-serif;
+  border-radius: 5px;
+  background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+}
+.meme-image {
+  grid-column: 1 / -1;
+  margin-top: 20px;
+  max-height: 500px;
+  width: 100%;
+}

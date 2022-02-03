@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  font-family: "Karla", sans-serif;
+  background-color: rgb(250, 225, 255);
+}
+.body {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 100px 15rem 0;
+  margin-bottom: 100px;
+  /* height: 650px; */
+  /* background-color: blanchedalmond; */
+}
